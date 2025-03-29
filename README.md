@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management
 
 ## Overview
 The Student Management System is a web-based application developed using Django and PostgreSQL containing the API endpoints **/students**  returns a JSON response containing a minimum of 10 with each student's name and enrolled program clearly listed.  and  **/subjects**  returns a JSON response listing all subjects associated Software Engineering program, spanning from Year 1 through 4. 
